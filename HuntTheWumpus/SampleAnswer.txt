@@ -1,0 +1,400 @@
+Five
+Three
+Seven
+Eight
+Atlantic Ocean
+Pacific Ocean
+Indian Ocean
+Arctic Ocean
+Blue
+Green
+Yellow
+Red
+George Washington
+Thomas Jefferson
+James Monroe
+John Adams
+72
+64
+32
+48
+May 15th
+June 5th
+May 5th
+May 10th
+The number 13
+Tricycle
+The Three Little Pigs
+March 3rd
+90
+100
+88
+75
+Chloroplast
+Green Agent
+Chlorophyll
+Chloroform
+Spanish
+French
+English
+Mandarin Chinese
+A Guppy fish
+A Goldfish
+A Clownfish
+A Blue Tang fish
+24
+26
+25
+23
+25
+27
+29
+31
+Harvard
+Stanford
+Yale
+Texas A&M
+To infinity, and beyond!
+Great Caesar's ghost!
+Let's get'er done!
+Time for some planetary action!
+Bob
+Riley
+Snoopy
+Clifford
+Ipod
+Iphone
+Ipad
+Surface
+Jay-Z
+Lady Gaga
+Justin Bieber
+Maroon 5
+10
+5
+8
+15
+Harry Potter
+Hermione Granger
+Ronald Weasley
+Jake Rose
+Alaska
+Texas
+California
+Rhode Island 
+Apple
+Pear
+Orange
+Peach
+20
+14
+19
+17
+Big Mac
+Chicken Crisp
+Fillet o Fish
+Chipotle BBQ Snackwrap
+0
+31.63906846^9
+31.63906846^8
+31.63906846^7
+Washington State City
+Seattle
+Tacoma
+Olympia
+Augusta
+Julya
+Marcha
+Januarya
+Metropolis
+Annapolis
+Banapolis
+Ennapolis
+China City
+Shang Hai
+Beijing
+Guang Dong
+8
+9
+5
+4
+5
+6
+4
+0
+60
+360
+3600
+36000
+Eight
+Seven
+Six
+Ten
+Superman
+Spiderman
+Batman
+Green lantern
+Blue
+Brown
+Green
+Yellow
+Newton's Law
+Newton's First Law
+Newton's Second Law
+Newton's Third Law  
+A herbivore
+A omnivore
+A carnivore
+A scavenger
+A poppy leaf
+A mint leaf
+A maple leaf
+A pine leaf
+The large intestine
+The kidneys
+The lungs
+The liver
+Every time a cell dies
+Once a year
+Never
+Every hour
+Michelangelo Buonarroti 
+Pablo Picasso 
+Wassily Kandinsky
+Leonardo da Vinci 
+Red and white
+Yellow and black
+White and black
+Yellow
+Mars
+Jupiter
+Mercury
+Pluto
+7
+6
+5
+8
+8
+7
+6
+5
+Diamond
+Gold
+Steel
+Quartzite
+The fear of heights
+The fear of hippos
+The fear of being hyper
+The fear of ham
+Protostars
+Nebula
+Red Giant
+Supernova
+Bioluminescence
+Photosynthesis
+Cellular Respiration
+Glycolysis
+Bread
+Vegetables
+Meat
+Fruit
+Partially Hydrogenated Oils 
+Hydrogenated Oils
+Processed Sugar
+All of the Above
+Broccoli
+Wheat
+Beef
+Beans
+Obesity
+Cardiovascular Diseases
+Alzheimers
+All of the Above
+Nuts
+Fish
+Red Meat
+Chicken
+Trans Fat
+Monounsaturated Fat
+Polyunsaturated Fat
+None of the Above
+Harry Potter and the Chamber of Secrets
+Harry Potter and the Philosopher's Stone 
+Harry Potter and the Goblet of Fire
+Harry Potter and the Prisoner of Azkaban
+Tuberculosis 
+Aids 
+Influenza
+Hepatitis B
+Destroying the liver
+Destroying the kidney
+Blocking signals between nerve cells
+Binding strongly to hemoglobin
+140
+65
+70
+100
+Kellogg's
+Quaker Oats
+Cadbury Schweppes
+General Milks
+Type O
+Type A
+Type B
+Type AB
+Linda Goodman 
+Nancy Eldridge 
+Katherine Graham 
+Denise Albrecht
+Sharp Microchip Service 
+Simple Messaging and Start-up
+Simple Messaging Service 
+Short Messaging System
+James Wolfensohn 
+Jim Yong Kim
+Robert Bishop
+John McCain
+SBI 
+PNB
+HFC
+Canara Bank
+A fashion accessory 
+A danger signal in shipping industry 
+A medicine for AIDS
+A company owned by Linux, the free operating system for computers
+LML 
+IBM 
+Wipro
+Compaq
+Nike
+Adidas
+Reebok
+UnderArmor
+Wafer
+Cracker
+Cookie
+Kit-Kat
+Coke
+Dr. Pepper
+Pepsi
+Sprite
+Run and Find Mom
+Realize (you're) a F****** Moron
+Remember all former military
+Read the F****** manual
+Because numbers cannot be trademarked
+Because Pentium sounds classy
+Because the president had a fetish for platinum
+Because Pentium was "better than gold"
+Someone who doesn't value their 401k
+Someone who has too much time 
+Someone who doesn't fear death
+Someone who is clueless
+A Direct Action virus
+A Trojan Horse virus
+A Boot Sector Virus
+A Worm virus
+A Mulefoot
+A Duroc
+A Hippopotamus
+A Finnish Landrace
+England
+Germany
+Spain
+USA
+Milan
+Florence
+Rome 
+Venice
+North Pole
+Timbuktu
+Ayers Rock
+South Pole
+Libra
+Capricorn
+Taurus
+Virgo
+Hephaestus
+Poseidon
+Apollo
+Heremes
+Coarse
+Gross
+Genteel
+Salacious
+Canada
+England
+France
+New Zealand
+Mexico
+Vietnam
+Grenada 
+Panama
+Let him sleep on a blacony
+Allow him in the dining room without a tie
+Supply him with a bed of nails
+Milk a goat
+Bib
+Dib
+Nib 
+Rib
+Apples of Hesperides
+Augean Stables
+Cirdle of Hippolyte
+Horses of Diomedes
+Brahms
+Liszt
+Mendelssohn
+Wagner
+Apathy
+Gusto
+Piquancy
+Tang
+Netball
+Orienteering
+Lacrosse
+Curling
+Leningrad
+Paris
+Lipetsk
+St. Petersburg
+A bull
+A falcon
+A horse
+A bear
+The tips of its antennas
+Its back
+The tips of its teeth
+Its legs
+Clippy
+Joe
+Spot
+Clipit
+China
+Hong Kong
+United States of America
+Swaziland
+Canada
+USA
+Sweden
+Australia 
+Attack with them
+Chew their food
+Show them to prey
+Open their mouths 
+2-5 miles (3-8 km) per hour
+10-20 miles (16-32 km) per hour
+5-10 miles (8-16 km) per hour
+5 to 20 miles (8-32 km) per hour
+Max Planck
+Stephen Hawking
+Albert Einstein
+Karl Marx
+Polar Bears
+Seals
+Sea Otter
+Beaver
+Bats
+Birds
+Penguins
+Chickens

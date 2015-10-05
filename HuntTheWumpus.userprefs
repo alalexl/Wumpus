@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../New Unity Project/Assets/StartGame.cs">
+    <Files>
+      <File FileName="../../New Unity Project/Assets/StartGame.cs" Line="12" Column="2" />
+      <File FileName="HuntTheWumpus/Cave.cs" Line="1" Column="1" />
+      <File FileName="HuntTheWumpus/Graphics.cs" Line="1" Column="3" />
+      <File FileName="HuntTheWumpus/MainForm.cs" Line="23" Column="40" />
+      <File FileName="HuntTheWumpus/TriviaForm.cs" Line="1" Column="1" />
+      <File FileName="HuntTheWumpus/HighScoreForm.cs" Line="22" Column="7" />
+      <File FileName="HuntTheWumpus/GameControl.cs" Line="274" Column="10" />
+      <File FileName="HuntTheWumpus/HighScore.cs" Line="258" Column="14" />
+      <File FileName="HuntTheWumpus/Trivia.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="HuntTheWumpus" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

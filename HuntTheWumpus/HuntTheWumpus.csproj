@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C762A4C1-B1A6-48AE-AFC9-A7083E331A16}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HuntTheWumpus</RootNamespace>
+    <AssemblyName>HuntTheWumpus</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cave.cs" />
+    <Compile Include="GameControl.cs" />
+    <Compile Include="Graphics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Graphics.Designer.cs">
+      <DependentUpon>Graphics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HighScore.cs" />
+    <Compile Include="HighScoreForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HighScoreForm.designer.cs">
+      <DependentUpon>HighScoreForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MapObject.cs" />
+    <Compile Include="Minigame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Minigame.Designer.cs">
+      <DependentUpon>Minigame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PlayerObject.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sound.cs" />
+    <Compile Include="Trivia.cs" />
+    <Compile Include="TriviaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TriviaForm.Designer.cs">
+      <DependentUpon>TriviaForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Graphics.resx">
+      <DependentUpon>Graphics.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HighScoreForm.resx">
+      <DependentUpon>HighScoreForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Minigame.resx">
+      <DependentUpon>Minigame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="TriviaForm.resx">
+      <DependentUpon>TriviaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="bin\Debug\HuntTheWumpus.vshost.exe.manifest" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="obj\x86\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="obj\x86\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\HuntTheWumpus.vshost.exe" />
+    <Content Include="cave 1.txt" />
+    <Content Include="cave 2.txt" />
+    <Content Include="cave 3.txt" />
+    <Content Include="cave 4.txt" />
+    <Content Include="cave 5.txt" />
+    <Content Include="correctAnswers.txt" />
+    <Content Include="highScoreValues1.txt" />
+    <Content Include="highScoreValues2.txt" />
+    <Content Include="highScoreValues3.txt" />
+    <Content Include="highScoreValues4.txt" />
+    <Content Include="highScoreValues5.txt" />
+    <Content Include="questionsAsked.txt" />
+    <Content Include="Resources\Arrow2.png" />
+    <Content Include="Resources\Arrow21.png" />
+    <Content Include="Resources\Arrow22.png" />
+    <Content Include="Resources\Arrow23.png" />
+    <Content Include="Resources\Arrow24.png" />
+    <Content Include="Resources\Arrow25.png" />
+    <Content Include="Resources\Arrow26.png" />
+    <Content Include="Resources\Arrow27.png" />
+    <Content Include="Resources\asian_cartoon_kid_bow_hc.gif" />
+    <Content Include="Resources\asian_cartoon_kid_bow_hc1.gif" />
+    <Content Include="Resources\asian_cartoon_kid_bow_hc2.gif" />
+    <Content Include="Resources\Background.png" />
+    <Content Include="Resources\Background2.jpg" />
+    <Content Include="Resources\Bats.png" />
+    <Content Include="Resources\bats.wav" />
+    <Content Include="Resources\BowAndArrows.gif" />
+    <Content Include="Resources\BowAndArrows.png" />
+    <Content Include="Resources\click.wav" />
+    <Content Include="Resources\fall.wav" />
+    <Content Include="Resources\found_item.wav" />
+    <Content Include="Resources\Gold-Coin.png" />
+    <Content Include="Resources\Hexagon.png" />
+    <Content Include="Resources\Hexagon1.png" />
+    <Content Include="Resources\Hexagon2.png" />
+    <Content Include="Resources\Hexagon3.png" />
+    <Content Include="Resources\Main-Character6.gif" />
+    <Content Include="Resources\Main-Character6_Original.gif" />
+    <Content Include="Resources\miss.wav" />
+    <Content Include="Resources\Pit.png" />
+    <Content Include="Resources\spear_trap.wav" />
+    <Content Include="Resources\step.wav" />
+    <Content Include="Resources\The Moon Night of Spring River.wav" />
+    <Content Include="Resources\WumpusImage.gif" />
+    <Content Include="Resources\WumpusImage.png" />
+    <Content Include="SampleAnswer.txt" />
+    <Content Include="SampleQuestion.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
+    <Folder Include="obj\x86\Debug\TempPE\" />
+    <Folder Include="obj\x86\Release\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

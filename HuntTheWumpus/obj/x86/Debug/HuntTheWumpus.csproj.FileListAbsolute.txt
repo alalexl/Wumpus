@@ -1,0 +1,12 @@
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\HuntTheWumpus\HuntTheWumpus\bin\Debug\HuntTheWumpus.pdb
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\HuntTheWumpus\HuntTheWumpus\obj\x86\Debug\HuntTheWumpus.Graphics.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\HuntTheWumpus\HuntTheWumpus\obj\x86\Debug\HuntTheWumpus.HighScoreForm.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\HuntTheWumpus\HuntTheWumpus\obj\x86\Debug\HuntTheWumpus.MainForm.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\HuntTheWumpus\HuntTheWumpus\obj\x86\Debug\HuntTheWumpus.Form1.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\HuntTheWumpus\HuntTheWumpus\obj\x86\Debug\HuntTheWumpus.Properties.Resources.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\HuntTheWumpus\HuntTheWumpus\obj\x86\Debug\HuntTheWumpus.Question.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\HuntTheWumpus\HuntTheWumpus\obj\x86\Debug\HuntTheWumpus.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\HuntTheWumpus\HuntTheWumpus\obj\x86\Debug\HuntTheWumpus.pdb
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\HuntTheWumpus\HuntTheWumpus\bin\Debug\HuntTheWumpus.exe
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\HuntTheWumpus\HuntTheWumpus\obj\x86\Debug\HuntTheWumpus.exe
+C:\Users\Alex\documents\visual studio 2010\Projects\HuntTheWumpus\HuntTheWumpus\obj\x86\Debug\HuntTheWumpus.csprojResolveAssemblyReference.cache
